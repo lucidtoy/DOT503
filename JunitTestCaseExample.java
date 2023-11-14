@@ -7,9 +7,10 @@ public class JunitTestCaseExample {
     public void remove(String name) {  
         students.remove(name);  
     }  
-    //this is the difference with feature-y  
-    public void add_y(String name) {  
-        students.add(name);  
+    
+     //feature for x
+    public void add_x(String name) {  
+        students.add();  
     }  
       
     public void removeAll(){  
