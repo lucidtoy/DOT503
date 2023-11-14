@@ -6,15 +6,21 @@ public class JunitTestCaseExample {
   
     public void remove(String name) {  
         students.remove(name);  
-    }  
+    }
       
     public void add(String name) {  
         students.add(name);  
-    }  
+    }
+
+    #modification for feature_x
+    public void add_x(String name) {  
+        students.add(name);  
+    }
+
       
     public void removeAll(){  
         students.clear();  
-    }  
+    }
       
     public int sizeOfStudent() {  
         return students.size();  
