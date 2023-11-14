@@ -12,9 +12,9 @@ public class JunitTestCaseExample {
         students.add(name);  
     }
 
-    #modification for feature_x
+    #modification for feature_z
     public void add_x(String name) {  
-        students.add(name);  
+        students.add();  
     }
 
       
