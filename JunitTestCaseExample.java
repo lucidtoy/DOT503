@@ -14,9 +14,9 @@ public class JunitTestCaseExample {
     }  
 
 
-    //feature for x
+    //feature for z
     public void add_x(String name) {  
-        students.add(name);  
+        students.add();
     }  
     
     public void removeAll(){  
