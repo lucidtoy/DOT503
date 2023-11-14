@@ -11,7 +11,11 @@ public class JunitTestCaseExample {
     public void add(String name) {  
         students.add(name);  
     }  
-      
+    //feature for x
+    public void add_x(String name) {  
+        students.add(name);  
+    }  
+    
     public void removeAll(){  
         students.clear();  
     }  
