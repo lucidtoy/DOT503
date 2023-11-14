@@ -17,6 +17,14 @@ public class JunitTestCaseExample {
     public void add_x(String name) {  
         students.add(name);  
     }
+<<<<<<< HEAD
+
+    //New feature for x
+    public void add_xx(String name) {  
+        students.add(name);  
+    }
+=======
+>>>>>>> main
     public void removeAll(){  
         students.clear();  
     }
