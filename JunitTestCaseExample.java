@@ -12,8 +12,8 @@ public class JunitTestCaseExample {
         students.add(name);  
     }
 
-    #modification for feature_x
-    public void add_x(String name) {  
+    #modification for feature_y
+    public void add_y(String name) {  
         students.add(name);  
     }
 
