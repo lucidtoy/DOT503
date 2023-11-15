@@ -13,18 +13,11 @@ public class JunitTestCaseExample {
         students.add(name2);  
     }  
   
-    //feature for x and Z merged
+    //feature for x,y, and Z merged
     public void add_x(String name) {  
         students.add(name);  
     }
-<<<<<<< HEAD
 
-    //New feature for x
-    public void add_xx(String name) {  
-        students.add(name);  
-    }
-=======
->>>>>>> main
     public void removeAll(){  
         students.clear();  
     }
